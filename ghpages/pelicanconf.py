@@ -9,7 +9,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-THEME = "/home/jemery/pelican-themes/Flex"
+THEME = "/home/jemery/pelican-themes/gum"
 
 DEFAULT_LANG = u'en'
 
@@ -21,14 +21,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+LINKS = (('Github', 'https://github.com/jnemery/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# SOCIAL = (('You can add links in your config file', '#'),
+#           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
