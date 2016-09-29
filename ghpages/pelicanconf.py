@@ -9,6 +9,8 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
+THEME = "/home/jemery/pelican-themes/Flex"
+
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
