@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Github', 'https://github.com/jnemery/'),
-         ('You can modify those links in your config file', '#'),)
+        )
 
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
