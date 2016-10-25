@@ -9,7 +9,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-THEME = "/home/jemery/pelican-themes/gum"
+THEME = "/home/jemery/pelican-themes/html5-dopetrope"
 
 DEFAULT_LANG = u'en'
 
@@ -19,6 +19,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+MAIL = "jnemery@iupui.edu"
+ABOUT_TEXT = "CS student at IUPUI"
+LINKEDIN_USER = "https://www.linkedin.com/in/jenniferemery3"
+ABOUT_IMAGE = "/images/AboutMe.jpg"
 
 # Blogroll
 LINKS = (('Github', 'https://github.com/jnemery/'),
