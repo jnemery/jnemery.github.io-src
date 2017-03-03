@@ -28,7 +28,7 @@ containerization is, so onto more about Docker!
 Docker has a nice visual about comparing containers and virtual 
 machines! 
 
-![VM](/images/Docker_VM.png) ![Docker](/images/Docker_Docker.png)
+![VM](/images/docker/Docker_VM.png) ![Docker](/images/docker/Docker_Docker.png)
 
 From this diagram alone, it seems like virtual machines are much 
 more clunky than Docker. I am enjoying what I am seeing so far... 
